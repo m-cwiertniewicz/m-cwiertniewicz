@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**m-cwiertniewicz/m-cwiertniewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Work👨‍💻
+[![work](https://skillicons.dev/icons?i=gcp,terraform,ansible,bash,powershell,git,githubactions,vscode)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+## Free time🏖️ 
+[![free time](https://skillicons.dev/icons?i=raspberrypi,python)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sometimes...⚡
+
+[![used](https://skillicons.dev/icons?i=html,css,docker,elasticsearch,grafana,mysql,sqlite)](https://skillicons.dev)
+
+## OS doesn't matter🌍 
+[![os](https://skillicons.dev/icons?i=windows,linux,apple)](https://skillicons.dev)
