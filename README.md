@@ -1,5 +1,11 @@
 # Hi there 👋
 
+## Networking 🌐
+
+**🔒 Fortinet**: Configured and managed Fortinet NGFWs to ensure enterprise-level security and protect network infrastructure.
+
+**🌐 HPE**: Worked with HPE networking switches to design and optimize reliable, scalable network solutions.
+
 ## Work👨‍💻
 [![work](https://skillicons.dev/icons?i=gcp,terraform,ansible,bash,powershell,git,githubactions,vscode)](https://skillicons.dev)
 
